@@ -1,7 +1,7 @@
 package com.javarush.task.task01.task0101;
 
 /* 
-Я думаю, быть программистом круто
+Я думаю, быть программистом круто, изменения для тренировки git
 */
 
 public class Solution {
